@@ -21,7 +21,7 @@ if not API_KEY:
 # =========================================================
 # 2. Fetch NVDA data using Polygon SDK
 # =========================================================
-TICKER = "NVDA"
+TICKER = "MSFT"
 START_DATE = "2022-01-01"
 END_DATE = datetime.today().strftime("%Y-%m-%d")
 
